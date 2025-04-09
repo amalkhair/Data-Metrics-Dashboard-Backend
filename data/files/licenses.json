@@ -1,0 +1,155 @@
+{
+    "meta": {
+        "count": 13,
+        "db_response_time_ms": 1,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/licenses/cc-by",
+            "display_name": "CC BY",
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "description": "Enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.",
+            "works_count": 14968186,
+            "cited_by_count": 202910661,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/cc-by",
+            "updated_date": "2025-03-27T07:49:50.017320",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/other-oa",
+            "display_name": "other open access",
+            "url": null,
+            "description": "The work is open access, with a license not yet listed in our database.",
+            "works_count": 7452313,
+            "cited_by_count": 112603194,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/other-oa",
+            "updated_date": "2025-03-27T07:49:51.968580",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/cc-by-nc-nd",
+            "display_name": "CC BY-NC-ND",
+            "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "description": "Enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. ",
+            "works_count": 4769732,
+            "cited_by_count": 60961914,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/cc-by-nc-nd",
+            "updated_date": "2025-03-27T07:49:50.328589",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/cc-by-nc",
+            "display_name": "CC BY-NC",
+            "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+            "description": "Enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.",
+            "works_count": 4007425,
+            "cited_by_count": 37895008,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/cc-by-nc",
+            "updated_date": "2025-03-27T07:49:50.509895",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/cc-by-nc-sa",
+            "display_name": "CC BY-NC-SA",
+            "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+            "description": "Enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. ",
+            "works_count": 1667271,
+            "cited_by_count": 24791137,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/cc-by-nc-sa",
+            "updated_date": "2025-03-27T07:49:51.296594",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/publisher-specific-oa",
+            "display_name": "publisher specific open access",
+            "url": null,
+            "description": "The work is open access with a publisher license.",
+            "works_count": 1633361,
+            "cited_by_count": 57317605,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/publisher-specific-oa",
+            "updated_date": "2025-03-27T07:49:50.692100",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/public-domain",
+            "display_name": "public domain (CC0)",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "description": "CC0 (aka CC Zero) is a public dedication tool, which enables creators to give up their copyright and put their works into the worldwide public domain. CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.",
+            "works_count": 855838,
+            "cited_by_count": 11727927,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/public-domain",
+            "updated_date": "2025-03-26T23:49:22.003198",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/cc-by-sa",
+            "display_name": "CC BY-SA",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "description": "Enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.",
+            "works_count": 805108,
+            "cited_by_count": 2337725,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/cc-by-sa",
+            "updated_date": "2025-03-27T07:49:49.818564",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/mit",
+            "display_name": "MIT",
+            "url": "https://spdx.org/licenses/MIT.html",
+            "description": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+            "works_count": 231305,
+            "cited_by_count": 6889203,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/mit",
+            "updated_date": "2025-03-26T08:48:23.886607",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/cc-by-nd",
+            "display_name": "CC BY-ND",
+            "url": "https://creativecommons.org/licenses/by-nd/4.0/",
+            "description": "Enables reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use. ",
+            "works_count": 188563,
+            "cited_by_count": 1094887,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/cc-by-nd",
+            "updated_date": "2025-03-27T07:49:51.003552",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/gpl-v3",
+            "display_name": "GNU GPLv3",
+            "url": "https://spdx.org/licenses/GPL-3.0-or-later.html",
+            "description": "Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.",
+            "works_count": 4357,
+            "cited_by_count": 69415,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/gpl-v3",
+            "updated_date": "2025-03-26T08:48:22.469724",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/apache-2-0",
+            "display_name": "Apache License 2.0",
+            "url": "https://spdx.org/licenses/Apache-2.0.html",
+            "description": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.",
+            "works_count": 1177,
+            "cited_by_count": 139,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/apache-2-0",
+            "updated_date": "2025-02-24T03:45:25.569476",
+            "created_date": "2024-04-12"
+        },
+        {
+            "id": "https://openalex.org/licenses/isc",
+            "display_name": "ISC License",
+            "url": "https://spdx.org/licenses/ISC.html",
+            "description": "A permissive license lets people do anything with your code with proper attribution and without warranty. The ISC license is functionally equivalent to the BSD 2-Clause and MIT licenses, removing some language that is no longer necessary.",
+            "works_count": 0,
+            "cited_by_count": 0,
+            "works_api_url": "https://api.openalex.org/works?filter=locations.license_id:licenses/isc",
+            "updated_date": "2024-05-14T19:44:33.503564",
+            "created_date": "2024-04-12"
+        }
+    ],
+    "group_by": []
+}

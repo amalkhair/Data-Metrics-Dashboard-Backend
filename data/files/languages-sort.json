@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "count": 184,
+        "db_response_time_ms": 13,
+        "page": 1,
+        "per_page": 200,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/languages/en",
+            "display_name": "English",
+            "works_count": 183822518,
+            "cited_by_count": 2142856694,
+            "works_api_url": "https://api.openalex.org/works?filter=language:en",
+            "updated_date": "2024-07-13T23:05:22.373595",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/de",
+            "display_name": "German",
+            "works_count": 8267361,
+            "cited_by_count": 17590901,
+            "works_api_url": "https://api.openalex.org/works?filter=language:de",
+            "updated_date": "2025-03-24T10:15:31.356169",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/es",
+            "display_name": "Spanish",
+            "works_count": 8216400,
+            "cited_by_count": 8048367,
+            "works_api_url": "https://api.openalex.org/works?filter=language:es",
+            "updated_date": "2025-03-24T10:14:09.599563",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/ja",
+            "display_name": "Japanese",
+            "works_count": 8170052,
+            "cited_by_count": 426255,
+            "works_api_url": "https://api.openalex.org/works?filter=language:ja",
+            "updated_date": "2024-11-03T03:47:16.851164",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/fr",
+            "display_name": "French",
+            "works_count": 7407693,
+            "cited_by_count": 14376391,
+            "works_api_url": "https://api.openalex.org/works?filter=language:fr",
+            "updated_date": "2025-03-24T10:16:01.263153",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/ko",
+            "display_name": "Korean",
+            "works_count": 4347737,
+            "cited_by_count": 284131,
+            "works_api_url": "https://api.openalex.org/works?filter=language:ko",
+            "updated_date": "2025-03-24T10:16:49.665500",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/pt",
+            "display_name": "Portuguese",
+            "works_count": 4088233,
+            "cited_by_count": 6046826,
+            "works_api_url": "https://api.openalex.org/works?filter=language:pt",
+            "updated_date": "2025-03-24T10:16:08.548629",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/id",
+            "display_name": "Indonesian",
+            "works_count": 2978363,
+            "cited_by_count": 5483881,
+            "works_api_url": "https://api.openalex.org/works?filter=language:id",
+            "updated_date": "2025-03-24T10:16:20.112270",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/ru",
+            "display_name": "Russian",
+            "works_count": 2336891,
+            "cited_by_count": 658231,
+            "works_api_url": "https://api.openalex.org/works?filter=language:ru",
+            "updated_date": "2025-03-24T10:14:09.299820",
+            "created_date": "2024-02-12"
+        },
+        {
+            "id": "https://openalex.org/languages/it",
+            "display_name": "Italian",
+            "works_count": 1930225,
+            "cited_by_count": 2744179,
+            "works_api_url": "https://api.openalex.org/works?filter=language:it",
+            "updated_date": "2025-03-24T10:14:15.763250",
+            "created_date": "2024-02-12"
+        }
+    ],
+    "group_by": []
+}

@@ -1,0 +1,129 @@
+{
+    "meta": {
+        "count": 26,
+        "db_response_time_ms": 4,
+        "page": 1,
+        "per_page": 25,
+        "groups_count": null
+    },
+    "results": [
+        {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine",
+            "description": "field of study for diagnosing, treating and preventing disease",
+            "ids": {
+                "wikidata": "https://www.wikidata.org/wiki/Q11190",
+                "wikipedia": "https://en.wikipedia.org/wiki/Medicine"
+            },
+            "display_name_alternatives": ["healthcare sciences"],
+            "domain": {
+                "id": "https://openalex.org/domains/4",
+                "display_name": "Health Sciences"
+            }
+            ,
+            "works_count": 36272606,
+            "cited_by_count": 433646577,
+            "works_api_url": "https://api.openalex.org/works?filter=topics.field.id:27",
+            "updated_date": "2024-04-01T04:37:08.847205",
+            "created_date": "2024-01-23"
+        },
+        {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences",
+            "description": "academic disciplines concerned with society and the relationships between individuals in society",
+            "ids": {
+                "wikidata": "https://www.wikidata.org/wiki/Q34749",
+                "wikipedia": "https://en.wikipedia.org/wiki/Social_science"
+            },
+            "display_name_alternatives": [
+                "political sciences",
+                "sociology",
+                "anthropology"
+            ],
+            "domain": {
+                "id": "https://openalex.org/domains/2",
+                "display_name": "Social Sciences"
+            }
+            ,
+            "works_count": 32062906,
+            "cited_by_count": 97065020,
+            "works_api_url": "https://api.openalex.org/works?filter=topics.field.id:33",
+            "updated_date": "2024-04-01T04:36:37.460906",
+            "created_date": "2024-01-23"
+        },
+        {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering",
+            "description": "practice of using natural science, mathematics, and the engineering design process to solve technical problems",
+            "ids": {
+                "wikidata": "https://www.wikidata.org/wiki/Q11023",
+                "wikipedia": "https://en.wikipedia.org/wiki/Engineering"
+            },
+            "display_name_alternatives": ["engineering sciences"],
+            "domain": {
+                "id": "https://openalex.org/domains/3",
+                "display_name": "Physical Sciences"
+            },
+            "works_count": 24885260,
+            "cited_by_count": 201862525,
+            "works_api_url": "https://api.openalex.org/works?filter=topics.field.id:22",
+            "updated_date": "2024-04-01T04:37:29.730146",
+            "created_date": "2024-01-23"
+        },
+        {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities",
+            "description": "examination of human culture, including art, literature, philosophy, history, and artifacts",
+            "ids": {
+                "wikidata": "https://www.wikidata.org/wiki/Q80083",
+                "wikipedia": "https://en.wikipedia.org/wiki/Humanities"
+            },
+            "display_name_alternatives": ["humanities"],
+            "domain": {
+                "id": "https://openalex.org/domains/2",
+                "display_name": "Social Sciences"
+            },
+            "works_count": 13485134,
+            "cited_by_count": 21136726,
+            "works_api_url": "https://api.openalex.org/works?filter=topics.field.id:12",
+            "updated_date": "2024-04-01T04:37:35.309994",
+            "created_date": "2024-01-23"
+        },
+        {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science",
+            "description": "study of computation",
+            "ids": {
+                "wikidata": "https://www.wikidata.org/wiki/Q21198",
+                "wikipedia": "https://en.wikipedia.org/wiki/Computer_science"
+            },
+            "display_name_alternatives": [
+                "CS",
+                "science of computing",
+                "information processing science",
+                "computing sciences",
+                "sciences of computing",
+                "computation science",
+                "computing",
+                "computer studies",
+                "comp sci",
+                "comp. sci",
+                "comp. sci.",
+                "compsci",
+                "informatics"
+            ],
+            "domain": {
+                "id": "https://openalex.org/domains/3",
+                "display_name": "Physical Sciences"
+            },
+            "works_count": 12130693,
+            "cited_by_count": 93502418,
+            "works_api_url": "https://api.openalex.org/works?filter=topics.field.id:17",
+            "updated_date": "2024-04-01T04:37:24.524774",
+            "created_date": "2024-01-23"
+        }
+
+
+    ],
+    "group_by": []
+}
